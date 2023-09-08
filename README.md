@@ -3,6 +3,8 @@ Devtools tasks
 
 Сделать скрин видео выполнения задания.
 
+Ссылка на видео - https://drive.google.com/drive/folders/1K7RZCRAYsd2r2iaLKto4Q9vUfJ90KY7d?usp=sharing
+
  1. Открыть Chrome DevTools
  2. Зайти в панель Elements.
  3. Найти инспектором кнопку Submit и выровнять слово Submit по центру
