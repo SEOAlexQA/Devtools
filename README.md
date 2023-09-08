@@ -3,7 +3,7 @@ Devtools tasks
 
 Сделать скрин видео выполнения задания.
 
-Ссылка на видео - https://drive.google.com/drive/folders/1K7RZCRAYsd2r2iaLKto4Q9vUfJ90KY7d?usp=sharing
+Ссылка на видео - https://drive.google.com/file/d/1lCHjYLrcAK3x5KcdLz52LimNZ0-KdHX4/view?usp=sharing
 
  1. Открыть Chrome DevTools
  2. Зайти в панель Elements.
